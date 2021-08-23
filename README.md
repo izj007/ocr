@@ -8,4 +8,4 @@ pip install flask
 python -m flask run --host=0.0.0.0 --port=5000 --with-threads
 ```
 # 预览
-[](微信截图_20210823174019.png)
+
